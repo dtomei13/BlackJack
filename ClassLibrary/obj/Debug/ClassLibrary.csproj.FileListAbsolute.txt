@@ -1,0 +1,11 @@
+C:\Users\dtome\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\dtome\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\dtome\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dtome\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\dtome\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Dylan\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Dylan\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Dylan\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Dylan\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Dylan\OneDrive - Full Sail University\Classes\Programming II\BlackJack\ClassLibrary\bin\Debug\ClassLibrary.pdb
